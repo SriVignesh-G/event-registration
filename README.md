@@ -660,11 +660,5 @@ Publish the website in the given URL.
 
 ![login](./login.jpg)
 
-
-
-
-
-![logdone](./logindone.jpg)
-
 ## Result:
 Thus the program To design, develop and deploy a web application for event registration is completed successfully.
