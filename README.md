@@ -652,24 +652,15 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-### Home page:
-
 ![home](./home.jpg)
-
-### Register page:
 
 ![register](./register.jpg)
 
-### Register done page:
-
 ![done](./registerdone.jpg)
 
-### Login page:
 ![login](./login.jpg)
 
-### Login done page:
 ![logdone](./logindone.jpg)
-
 
 ## Result:
 Thus the program To design, develop and deploy a web application for event registration is completed successfully.
