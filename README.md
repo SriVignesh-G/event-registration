@@ -23,7 +23,7 @@ View your design webpages by using present icon.
 
 ### Step 5:
 
-fork the repository in your github and clone the repository from your github.
+Fork the repository in your github and clone the repository from your github.
 
 ### Step 6:
 
